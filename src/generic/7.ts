@@ -16,4 +16,4 @@ const RoleDescription: UserRolesStatuses = {
   [UserRole.guest]: "Guest User",
 };
 
-export {};
+export {RoleDescription};
